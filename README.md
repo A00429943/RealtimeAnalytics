@@ -2,16 +2,17 @@
 Fetching real time data from Twitter to get top trending hashtags using storm.
 
 # Technologies used
--Virtualization Technology: Vagrant Cloud, Virtual Box.
--Command Line: Ubuntu
--Programming Languages: Python, Java
--API: Twitter 4J
--Visualization: D3.js
+- Virtualization Technology: Vagrant Cloud, Virtual Box.
+- Command Line: Ubuntu
+- Programming Languages: Python, Java
+- API: Twitter 4J
+- Visualization: D3.js
+
 
 # Goals
--To calculate worldwide top trending hashtags.
--To display tweets that contain these hashtags.
--To visualize data using interactive data visualization library (D3.js)
+- To calculate worldwide top trending hashtags.
+- To display tweets that contain these hashtags.
+- To visualize data using interactive data visualization library (D3.js)
 
 # Data Pipeline
 
