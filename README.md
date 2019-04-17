@@ -20,7 +20,7 @@ Fetching real time data from Twitter to get top trending hashtags using storm.
 
 # Final Output
 
-<img width="581" alt="Screen Shot 2019-04-17 at 4 54 39 PM" src="https://user-images.githubusercontent.com/26671243/56316765-8722b000-6131-11e9-9593-6bf0e6c37ba5.png">
+<img align="center" width="581" alt="Screen Shot 2019-04-17 at 4 54 39 PM" src="https://user-images.githubusercontent.com/26671243/56316765-8722b000-6131-11e9-9593-6bf0e6c37ba5.png">
 
 
 
