@@ -1,4 +1,4 @@
-# RealtimeAnalytics
+# RealtimeAnalytics BigData Project
 Fetching real time data from Twitter to get top trending hashtags using storm.
 
 # Technologies used
