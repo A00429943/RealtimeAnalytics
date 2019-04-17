@@ -17,5 +17,12 @@ To visualize data using interactive data visualization library (D3.js)
 
 <img width="1038" alt="Screen Shot 2019-04-17 at 4 52 26 PM" src="https://user-images.githubusercontent.com/26671243/56316687-52aef400-6131-11e9-86c6-6f1024e50617.png">
 
+# Final Output
+
+<img width="581" alt="Screen Shot 2019-04-17 at 4 54 39 PM" src="https://user-images.githubusercontent.com/26671243/56316765-8722b000-6131-11e9-9593-6bf0e6c37ba5.png">
+
+
+
+
 
 
