@@ -12,7 +12,8 @@ Fetching real time data from Twitter to get top trending hashtags using storm.
 # Goals
 - To calculate worldwide top trending hashtags.
 - To display tweets that contain these hashtags.
-- To visualize data using interactive data visualization library (D3.js)
+- To visualize data using interactive data visualization library. (D3.js)
+- To implement concepts of sharding, partitioning and parallelism.
 
 # Data Pipeline
 
